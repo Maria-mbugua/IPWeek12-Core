@@ -26,5 +26,6 @@ Determining the audience the entrepreneur can target.
 
 # e) Relevance of the data
 
-The data used in this project is for determining which audience should be targeted by the entrepreneur when clicking the ad.
+The data used in this project is for determining which audience should be targeted by the entrepreneur when clicking the ads.
+
 The dataset link: http://bit.ly/IPAdvertisingData
